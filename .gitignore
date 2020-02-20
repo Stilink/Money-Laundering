@@ -1,23 +1,49 @@
-# Compiled class file
-*.class
+moneylaunderingtool/target
+moneylaunderingapi/target
+iml
+.idea
+.DS_Store
 
+
+
+
+# Compiled class file
+moneylaunderingtool/*.class
+moneylaunderingapi/*.class
 # Log file
-*.log
+moneylaunderingtool/*.log
+moneylaunderingapi/*.log
+
 
 # BlueJ files
-*.ctxt
+moneylaunderingtool/*.ctxt
+moneylaunderingapi/*.log
 
 # Mobile Tools for Java (J2ME)
-.mtj.tmp/
+moneylaunderingtool/.mtj.tmp/
+moneylaunderingapi/*.log
 
 # Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
+moneylaunderingtool/*.jar
+moneylaunderingtool/*.war
+moneylaunderingtool/*.nar
+moneylaunderingtool/*.ear
+moneylaunderingtool/*.zip
+moneylaunderingtool/*.tar.gz
+moneylaunderingtool/*.rar
+moneylaunderingapi/*.jar
+moneylaunderingapi/*.war
+moneylaunderingapi/*.nar
+moneylaunderingapi/*.ear
+moneylaunderingapi/*.zip
+moneylaunderingapi/*.tar.gz
+moneylaunderingapi/*.rar
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+moneylaunderingtool/hs_err_pid*
+moneylaunderingtool/hs_err_pid*
+
+moneylaunderingtool/.*
+moneylaunderingapi/.*
+
+
